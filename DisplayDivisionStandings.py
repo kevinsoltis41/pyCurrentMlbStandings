@@ -1,7 +1,7 @@
 import urllib2
 import json
-from Division.py import *
-from Team.py import *
+from Division import *
+from Team import *
 
 
 def Display_Division_Standings():	
